@@ -66,7 +66,7 @@ const renderAboutMain = () => (
           <ul>
             <li>
               Added a standard component library to be utilized across multiple
-              applications
+              applications.
             </li>
             <li>
               Spearheaded feature additions, contributing to the project&apos;
@@ -87,7 +87,7 @@ const renderAboutMain = () => (
             </li>
             <li>
               Utilized Perforce 4 for version control and CMS for efficient
-              content management and many more
+              content management and many more.
             </li>
           </ul>
         </div>
@@ -111,7 +111,7 @@ const renderAboutMain = () => (
             </li>
             <li>
               Conducted thorough component and asset refactoring, resulting in
-              cleaner and more efficient code
+              cleaner and more efficient code.
             </li>
             <li>
               Achieved significant performance improvements through optimization
