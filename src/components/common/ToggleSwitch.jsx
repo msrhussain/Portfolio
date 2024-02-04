@@ -13,8 +13,6 @@ const ToggleSwitch = ({
     setToggle(!toggle);
     onChange();
   };
-
-  console.log('hhh', toggle);
   return (
     <span className={`toggle-switch ${toggle ? 'on' : 'off'}`}>
       <label className="switch">
